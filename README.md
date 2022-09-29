@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @icodehumbly 
-- 👀 I’m interested in Cloud computing  
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Frontend Web Devlopment
+- 🌱 I’m currently learning Javascript, html, css & ptpython 
 - 💞️ I’m looking to collaborate zealous students and like minds
 - 📫 How to reach me iyampassionate@gmail.com
 
