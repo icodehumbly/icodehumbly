@@ -1,5 +1,5 @@
 - <h1 align to center> 👋 Hi, I’m Mayowa Aratunde </h1> 
-- 👀 I’m interested in Frontend Web Devlopment
+- <h3>👀 I’m interested in Frontend Web Devlopment</h3>
 - 🌱 I’m currently learning Javascript, html, css & ptpython 
 - 💞️ I’m looking to collaborate zealous students and like minds
 - 📫 How to reach me iyampassionate@gmail.com
