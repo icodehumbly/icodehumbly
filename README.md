@@ -1,4 +1,4 @@
-- <h1 align to center> 👋 Hi, I’m @icodehumbly</h1> 
+- <h1 align to center> 👋 Hi, I’m Mayowa Aratunde </h1> 
 - 👀 I’m interested in Frontend Web Devlopment
 - 🌱 I’m currently learning Javascript, html, css & ptpython 
 - 💞️ I’m looking to collaborate zealous students and like minds
